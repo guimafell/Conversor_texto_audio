@@ -1,0 +1,10 @@
+C:\Users\guima\source\repos\Conversor_txt_per_sound\obj\Debug\Conversor_txt_per_sound.csprojAssemblyReference.cache
+C:\Users\guima\source\repos\Conversor_txt_per_sound\obj\Debug\Conversor_txt_per_sound.Form1.resources
+C:\Users\guima\source\repos\Conversor_txt_per_sound\obj\Debug\Conversor_txt_per_sound.Properties.Resources.resources
+C:\Users\guima\source\repos\Conversor_txt_per_sound\obj\Debug\Conversor_txt_per_sound.csproj.GenerateResource.cache
+C:\Users\guima\source\repos\Conversor_txt_per_sound\obj\Debug\Conversor_txt_per_sound.csproj.CoreCompileInputs.cache
+C:\Users\guima\source\repos\Conversor_txt_per_sound\bin\Debug\Conversor_txt_per_sound.exe.config
+C:\Users\guima\source\repos\Conversor_txt_per_sound\bin\Debug\Conversor_txt_per_sound.exe
+C:\Users\guima\source\repos\Conversor_txt_per_sound\bin\Debug\Conversor_txt_per_sound.pdb
+C:\Users\guima\source\repos\Conversor_txt_per_sound\obj\Debug\Conversor_txt_per_sound.exe
+C:\Users\guima\source\repos\Conversor_txt_per_sound\obj\Debug\Conversor_txt_per_sound.pdb
